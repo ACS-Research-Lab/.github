@@ -23,7 +23,7 @@ Explore our repositories to find out more about our ongoing and completed projec
 
 ## Get Involved
 
-We welcome contributions from the community. If you are interested in collaborating with us, please check out our [contribution guidelines](https://github.com/ACS-research-lab/.github/CONTRIBUTING.md) and [code of conduct](https://github.com/ACS-research-lab/.github/CODE_OF_CONDUCT.md).
+We welcome contributions from the community. If you are interested in collaborating with us, please check out our [contribution guidelines](https://github.com/ACS-Research-Lab/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/ACS-Research-Lab/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## Contact Us
 
